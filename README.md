@@ -1,2 +1,0 @@
-# s-tests
-delete me
